@@ -9,6 +9,15 @@ Welcome to the **Student Management System**! This application is designed to he
 - **QR Code Generation**: Generate and display QR codes for each student.
 - **Upload Excel Files**: Upload an Excel file to add multiple student records at once.
 
+## 📸 Screenshots
+
+## 📸 Screenshot 1
+![Screenshot (312)](https://github.com/user-attachments/assets/303a901d-b0bd-47c5-ac5f-e47c5ec21383)
+
+## 📸 Screenshot 2
+![Screenshot (313)](https://github.com/user-attachments/assets/923ffd18-4117-4fbc-8e1e-214618ed0812)
+
+
 ## 🚀 Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
